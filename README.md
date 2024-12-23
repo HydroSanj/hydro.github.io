@@ -1,3 +1,5 @@
-# Hydro
+# Hydro University
 
-Welcome!
+Welcome! Let us learn together. 
+
+Content coming soon.
